@@ -1237,3 +1237,36 @@ button, input, select, textarea {
     text-align: center;
   }
 }
+
+:root {
+  --crimson: #780000;
+  --crimson-hover: #5e0000;
+  --cream: #fdf0d5;
+  --cream-soft: #fffdf7;
+  --cream-dark: #ebd8b7;
+  --navy: #003049;
+  --navy-light: #00466c;
+  --navy-dark: #001e2e;
+  --slate: #669bbc;
+  --slate-light: #8cb8d4;
+  --slate-tint: rgba(102, 155, 188, 0.12);
+  --white: #ffffff;
+  --gray-50: #fafafa;
+  --gray-100: #f4f5f7;
+  --gray-200: #e5e7eb;
+  --gray-300: #d1d5db;
+  --gray-600: #4b5563;
+  --gray-700: #374151;
+  --gray-800: #1f2937;
+  --text-main: #111827;
+  --text-muted: #6b7280;
+  --border-color: #f0f0f0;
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 18px;
+  --radius-pill: 9999px;
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 14px rgba(0, 48, 73, 0.08);
+  --shadow-lg: 0 16px 32px rgba(0, 48, 73, 0.12);
+  --transition: all 0.22s ease-in-out;
+}
