@@ -1,2 +1,2 @@
 # tenantly-rpms
-BSIT 3E Group Project Repository
+A Web-Based Rental Property Management System for Apartment and Boarding House Administration
